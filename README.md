@@ -45,11 +45,6 @@
   </ul>
 </details>
 
-
-## 🚀 Live Demo <a name="live-demo"></a>
-features
-- [Live Demo link](https://github.com/samuelkinyanjui/todolistsm)
-
 ## Project Descriptive Video <a name="desc-video"></a>
 
 - [Project Descriptive Video link]()
@@ -113,7 +108,7 @@ Project can be deployed by using the gh-pages and other web platforms.
 
 👤 **Samuel kinyanjui**
 
-- GitHub: [@githubhandle](https://github.com/samuelkinyanjui/todolistsm))
+- GitHub: [@githubhandle](https://github.com/samuelkinyanjui/todolistsm)
 
 
 

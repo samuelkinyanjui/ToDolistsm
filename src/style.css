@@ -10,12 +10,12 @@ body {
   display: grid;
   align-items: center;
   justify-content: center;
-  background-image: linear-gradient(260deg, #2376ae 0%, #c16ecf 100%);
+  background-image: linear-gradient(260deg, #23ae41 0%, #6e74cf 100%);
 }
 
 .container {
   display: grid;
-  width: 130%;
+  width: 80rem;
   min-height: 50vh;
   background-color: #fff;
   box-shadow: 0 2px 8px rgba(56, 1, 1, 0.993);
@@ -30,7 +30,7 @@ body {
 
 .bi-arrow-repeat {
   color: rgb(0, 0, 0);
-  margin-left: 55%;
+  margin-left: 85%;
   font-size: 1.5rem;
 }
 
@@ -41,7 +41,7 @@ body {
 .add-item {
   display: flex;
   background-color: #fff;
-  align-items: center;
+  align-items: left;
   justify-content: flex-start;
   height: 50px;
   padding: 0 20px;
@@ -55,7 +55,7 @@ body {
 
 .list-item {
   display: flex;
-  align-items: center;
+  align-items: left;
   justify-content: space-between;
   border-bottom: 1px solid rgb(214, 209, 209);
   margin-bottom: 10px;
@@ -109,7 +109,7 @@ body {
   color: #000;
   background-color: transparent;
   font-size: 20px;
-  text-align: center;
+  text-align: start;
   font-style: italic;
 }
 
@@ -145,3 +145,4 @@ body {
 .clearBtn:hover {
   color: rgb(21, 21, 187);
 }
+

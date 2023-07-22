@@ -28,7 +28,7 @@ export default class DisplayItems {
       addItemsContainer.innerHTML += `
           <li class="list-item" draggable="true" data-index="${index}">
               <input type="checkbox" name="${task.description}" ${task.completed ? 'checked' : ''}>
-              <input type="text" value="${task.description}" readonly>
+              <input type="text" class="datali" value="${task.description}" readonly>
               <div class="actions-container">
             <i class="bi bi-three-dots-vertical" data-index="${index}"></i>
             </div>

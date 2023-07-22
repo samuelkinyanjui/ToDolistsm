@@ -41,7 +41,7 @@ body {
 .add-item {
   display: flex;
   background-color: #fff;
-  align-items: left;
+  align-items: start;
   justify-content: flex-start;
   height: 50px;
   padding: 0 20px;
@@ -55,7 +55,7 @@ body {
 
 .list-item {
   display: flex;
-  align-items: left;
+  align-items: start;
   justify-content: space-between;
   border-bottom: 1px solid rgb(214, 209, 209);
   margin-bottom: 10px;
@@ -145,4 +145,3 @@ body {
 .clearBtn:hover {
   color: rgb(21, 21, 187);
 }
-

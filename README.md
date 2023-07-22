@@ -78,7 +78,7 @@ Install this project with:
 
 ```sh
   cd todolistsm
- npm install
+  npm install
 ```
 
 ### Usage

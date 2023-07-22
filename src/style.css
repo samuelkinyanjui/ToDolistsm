@@ -1,3 +1,5 @@
+@import url(https://use.fontawesome.com/releases/v6.0.0/css/all.css);
+
 * {
   box-sizing: border-box;
   padding: 0;
@@ -20,7 +22,7 @@ body {
   background-color: #fff;
   box-shadow: 0 2px 8px rgba(56, 1, 1, 0.993);
   border-radius: 3px;
-  padding-bottom: 80px;
+  padding-bottom: 100px;
   padding-top: 2%;
   padding-left: 2%;
   margin: 10vh 0;
@@ -44,9 +46,25 @@ body {
   align-items: center;
   justify-content: flex-start;
   height: 50px;
-  padding: 0 20px;
+  padding: 0 10px;
   border-bottom: 1px #ddd solid;
   margin-left: -3px;
+}
+
+span {
+  width: 80%;
+  padding: 5px;
+  border: none;
+}
+
+span:active,
+span:hover,
+span:link {
+  border: none;
+}
+
+.add-button {
+  background: none;
 }
 
 .add-item input[type="text"]::placeholder {
@@ -58,7 +76,7 @@ body {
   align-items: center;
   justify-content: space-between;
   border-bottom: 1px solid rgb(214, 209, 209);
-  margin-bottom: 5px;
+  margin-bottom: 10px;
   padding: 1%;
 }
 

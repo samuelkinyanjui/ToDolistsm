@@ -1,4 +1,4 @@
-/* sam */
+/* sam c */
 import './style.css';
 
 const addItemsContainer = document.querySelector('.add-list');

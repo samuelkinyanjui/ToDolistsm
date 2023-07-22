@@ -69,7 +69,7 @@ In order to run this project, you need:
 ### Setup
 
 Clone this repository to your desired folder
-https://github.com/samuelkinyanjui/todolistsm)
+https://github.com/samuelkinyanjui/todolistsm
 
 
 ### Install
@@ -77,7 +77,7 @@ https://github.com/samuelkinyanjui/todolistsm)
 Install this project with: 
 
 ```sh
-  cd Capstone-Project_sam
+  cd todolistsm
  npm install
 ```
 
@@ -105,7 +105,7 @@ Project can be deployed by using the gh-pages and other web platforms.
 
 👤 **Samuel kinyanjui**
 
-- GitHub: [@githubhandle](https://github.com/samuelkinyanjui/todolistsm))
+- GitHub: [@githubhandle](https://github.com/samuelkinyanjui/todolistsm)
 
 
 
